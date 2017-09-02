@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-02T13:31:11.000Z</updated>
+  <updated>2017-09-02T14:36:34.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,24 +16,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>关于我</title>
+    <title>测试</title>
     <link href="http://yoursite.com/2017/09/02/aboutme/"/>
     <id>http://yoursite.com/2017/09/02/aboutme/</id>
     <published>2017-09-02T09:07:41.000Z</published>
-    <updated>2017-09-02T13:31:11.000Z</updated>
+    <updated>2017-09-02T14:36:34.000Z</updated>
     
-    <content type="html"><![CDATA[<p>我是流盐</p>
-<p>88年的女汉子<br>喜欢装90后<br>坐标上海</p>
-<p>敲得了代码，改得了bug<br>写得了文档，做得了翻译<br>出得了厅堂，入得了厨房<br>修得了马桶，抓得了小偷</p>
-<p>目前，是一只产品汪<br>喜欢一切颜值高的事物<br>包括美食、美景、美文、美女和小鲜肉</p>
+    <content type="html"><![CDATA[<p>测试</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;我是流盐&lt;/p&gt;
-&lt;p&gt;88年的女汉子&lt;br&gt;喜欢装90后&lt;br&gt;坐标上海&lt;/p&gt;
-&lt;p&gt;敲得了代码，改得了bug&lt;br&gt;写得了文档，做得了翻译&lt;br&gt;出得了厅堂，入得了厨房&lt;br&gt;修得了马桶，抓得了小偷&lt;/p&gt;
-&lt;p&gt;目前，是一只产品汪&lt;br&gt;喜欢一切颜值高的事物&lt;br&gt;
+      &lt;p&gt;测试&lt;/p&gt;
+
     
     </summary>
     
