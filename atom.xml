@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>流盐</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-09-02T12:25:21.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>流盐</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文章名称</title>
+    <link href="http://yoursite.com/2016/03/03/firstnight/"/>
+    <id>http://yoursite.com/2016/03/03/firstnight/</id>
+    <published>2016-03-03T02:46:46.000Z</published>
+    <updated>2017-09-02T12:25:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>我有一头<strong>小毛驴</strong>，可是我从来都不骑。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;我有一头&lt;strong&gt;小毛驴&lt;/strong&gt;，可是我从来都不骑。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
